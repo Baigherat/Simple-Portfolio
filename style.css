@@ -284,6 +284,7 @@ section {
 
 .about-pic {
   border-radius: 2rem;
+  
 }
 
 .arrow{
@@ -307,6 +308,8 @@ section {
   height: 80%;
   justify-content: center;
   text-align: center;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 .section__pic-container{
